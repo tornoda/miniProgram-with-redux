@@ -232,7 +232,7 @@ Page({
 ```
 如下图：
 
-![可以在控制台查看每步修改前后得state了](src-for-readme/miniProgramDemo.png)
+![可以在控制台查看每步修改前后得state了](src-for-readme/miniProgramDemo.PNG)
 
 ## 源文件
 
