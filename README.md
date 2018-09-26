@@ -1,6 +1,6 @@
 > 本文主要讲述，在微信小程序中如何使用redux
 
-[DEMO]()
+[DEMO](https://github.com/tornoda/miniProgram-with-redux)
 
 ## 需要解决的问题
 
@@ -230,7 +230,10 @@ Page({
   }
 })
 ```
+如下图：
+
+![可以在控制台查看每步修改前后得state了](/src-for-readme/miniProgramDemo.png)
 
 ## 源文件
 
-[DEMO地址]()
+[DEMO地址](https://github.com/tornoda/miniProgram-with-redux)
